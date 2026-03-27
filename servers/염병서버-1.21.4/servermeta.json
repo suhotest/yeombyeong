@@ -1,0 +1,30 @@
+{
+  "$schema": "file:///C:/Users/11/Documents/GitHub/yeombyeong/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "염병서버 (Minecraft 1.21.4)",
+    "description": "염병서버 Running Minecraft 1.21.4 (Fabric v0.18.5)",
+    "icon": "How to set the server icon: https://github.com/dscalzi/Nebula#setting-the-server-icon",
+    "address": "175.112.128.16",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": false,
+    "autoconnect": false
+  },
+  "fabric": {
+    "version": "0.18.5"
+  },
+  "untrackedFiles": [
+    {
+      "appliesTo": ["files"],
+      "patterns": [
+        "options.txt",
+        "config/*",
+        "kubejs/*"
+      ]
+    }
+  ]
+}

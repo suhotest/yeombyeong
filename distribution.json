@@ -1,0 +1,312 @@
+{
+  "version": "1.0.0",
+  "rss": "<LINK TO RSS FEED>",
+  "discord": {
+    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+  },
+  "servers": [
+    {
+      "id": "염병서버-1.21.4",
+      "name": "염병서버 (Minecraft 1.21.4)",
+      "description": "염병서버 Running Minecraft 1.21.4 (Fabric v0.18.5)",
+      "icon": null,
+      "version": "1.0.0",
+      "address": "175.112.128.16",
+      "minecraftVersion": "1.21.4",
+      "discord": {
+        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+      },
+      "mainServer": false,
+      "autoconnect": false,
+      "modules": [
+        {
+          "id": "net.fabricmc:fabric-loader:0.18.5",
+          "name": "Fabric (fabric-loader)",
+          "type": "Fabric",
+          "artifact": {
+            "size": 1959156,
+            "MD5": "3fa0cee580b5c4a20947ae8149719a0f",
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/repo/lib/net/fabricmc/fabric-loader/0.18.5/fabric-loader-0.18.5.jar"
+          },
+          "subModules": [
+            {
+              "id": "1.21.4-fabric-0.18.5",
+              "name": "Fabric (version.json)",
+              "type": "VersionManifest",
+              "artifact": {
+                "size": 2847,
+                "MD5": "138b443d7d1a1e285e5ab1385c213a25",
+                "url": "https://github.com/suhotest/yeombyeong/raw/main/repo/versions/1.21.4-fabric-0.18.5/1.21.4-fabric-0.18.5.json"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm:9.9",
+              "name": "Fabric (asm)",
+              "type": "Library",
+              "artifact": {
+                "size": 126122,
+                "MD5": "6d1dd0482c03a6dc1807d9d004456021",
+                "url": "https://github.com/suhotest/yeombyeong/raw/main/repo/lib/org/ow2/asm/asm/9.9/asm-9.9.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-analysis:9.9",
+              "name": "Fabric (asm-analysis)",
+              "type": "Library",
+              "artifact": {
+                "size": 35149,
+                "MD5": "f07383cfbd50f097558341a03b8871e1",
+                "url": "https://github.com/suhotest/yeombyeong/raw/main/repo/lib/org/ow2/asm/asm-analysis/9.9/asm-analysis-9.9.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-commons:9.9",
+              "name": "Fabric (asm-commons)",
+              "type": "Library",
+              "artifact": {
+                "size": 74348,
+                "MD5": "8103b3de8f48fb4c7f97efdaa46ce809",
+                "url": "https://github.com/suhotest/yeombyeong/raw/main/repo/lib/org/ow2/asm/asm-commons/9.9/asm-commons-9.9.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-tree:9.9",
+              "name": "Fabric (asm-tree)",
+              "type": "Library",
+              "artifact": {
+                "size": 51947,
+                "MD5": "912eeaba1a63d574ffc66c651c7c6725",
+                "url": "https://github.com/suhotest/yeombyeong/raw/main/repo/lib/org/ow2/asm/asm-tree/9.9/asm-tree-9.9.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-util:9.9",
+              "name": "Fabric (asm-util)",
+              "type": "Library",
+              "artifact": {
+                "size": 94565,
+                "MD5": "ef5e90e736cd09bc407c1d46a3faba0f",
+                "url": "https://github.com/suhotest/yeombyeong/raw/main/repo/lib/org/ow2/asm/asm-util/9.9/asm-util-9.9.jar"
+              }
+            },
+            {
+              "id": "net.fabricmc:sponge-mixin:0.17.0+mixin.0.8.7",
+              "name": "Fabric (sponge-mixin)",
+              "type": "Library",
+              "artifact": {
+                "size": 1505269,
+                "MD5": "d27dcb910788a0bd4bea72942a714093",
+                "url": "https://github.com/suhotest/yeombyeong/raw/main/repo/lib/net/fabricmc/sponge-mixin/0.17.0+mixin.0.8.7/sponge-mixin-0.17.0+mixin.0.8.7.jar"
+              }
+            },
+            {
+              "id": "net.fabricmc:intermediary:1.21.4",
+              "name": "Fabric (intermediary)",
+              "type": "Library",
+              "artifact": {
+                "size": 701826,
+                "MD5": "d0f4187a62328d4a95f3428434efbd48",
+                "url": "https://github.com/suhotest/yeombyeong/raw/main/repo/lib/net/fabricmc/intermediary/1.21.4/intermediary-1.21.4.jar"
+              }
+            }
+          ]
+        },
+        {
+          "id": "me.axieum.mcmod.authme.impl:authme:9.0.1+1.21.4@jar",
+          "name": "Auth Me",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 376047,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/fabricmods/required/authme-fabric-9.0.1+1.21.4.jar",
+            "MD5": "3c220399e5c34dae32224818c7acaa6c"
+          }
+        },
+        {
+          "id": "me.pepperbell:continuity:3.0.0+1.21.4@jar",
+          "name": "Continuity",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1001061,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/fabricmods/required/continuity-3.0.0+1.21.4.jar",
+            "MD5": "cb5480ac95db653d5376ec1b41797b56"
+          }
+        },
+        {
+          "id": "dev.tr7zw:entityculling:1.10.0@jar",
+          "name": "EntityCulling",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1571401,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/fabricmods/required/entityculling-fabric-1.10.0-mc1.21.4.jar",
+            "MD5": "1a6300f8d2fa47c4928f57dc72fa1277"
+          }
+        },
+        {
+          "id": "generated.fabricmod:fabric-api:0.119.4+1.21.4@jar",
+          "name": "Fabric API",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2149128,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/fabricmods/required/fabric-api-0.119.4+1.21.4.jar",
+            "MD5": "128a8d042180e7c92567342e21a21a6d"
+          }
+        },
+        {
+          "id": "generated.fabricmod:fabric-language-kotlin:1.13.10+kotlin.2.3.20@jar",
+          "name": "Fabric Language Kotlin",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 7796348,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/fabricmods/required/fabric-language-kotlin-1.13.10+kotlin.2.3.20.jar",
+            "MD5": "ab31a7c6fdfeb7f5dca011dcfa88ff08"
+          }
+        },
+        {
+          "id": "generated.fabricmod:ferritecore:7.1.3@jar",
+          "name": "FerriteCore",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 109879,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/fabricmods/required/ferritecore-7.1.3-fabric.jar",
+            "MD5": "cd9fba194e3409f486a9c25a26518c8e"
+          }
+        },
+        {
+          "id": "com.gitter.gtdonationapi.fabric.v1_21_4:gtdonationapi:2.0.7@jar",
+          "name": "GT-DonationAPI",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 9410186,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/fabricmods/required/GT-DonationAPI-fabric-1.21.4-2.0.7.jar",
+            "MD5": "b63c67768107284568bbf809ba325e9a"
+          }
+        },
+        {
+          "id": "com.gitter:gtnick:2.0.4@jar",
+          "name": "GTNick",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 104906,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/fabricmods/required/gtnick-fabric-1.21.4-2.0.4.jar",
+            "MD5": "c515eadc754ec9a09893d2bfc06a6aff"
+          }
+        },
+        {
+          "id": "generated.fabricmod:immediatelyfast:1.8.6+1.21.4@jar",
+          "name": "ImmediatelyFast",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 338560,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/fabricmods/required/ImmediatelyFast-Fabric-1.8.6+1.21.4.jar",
+            "MD5": "07e3eb87c54f142ad7c8a47629312c50"
+          }
+        },
+        {
+          "id": "generated.fabricmod:iris:1.8.8+mc1.21.4@jar",
+          "name": "Iris",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2682702,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/fabricmods/required/iris-fabric-1.8.8+mc1.21.4.jar",
+            "MD5": "59d373e4874efbcb8fb426bdefa588d9"
+          }
+        },
+        {
+          "id": "com.hyfata.najoan:koreanpatch:1.9.5+mc1.21.3@jar",
+          "name": "Korean Patch",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 595769,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/fabricmods/required/koreanpatch-fabric-1.9.5+mc1.21.3.jar",
+            "MD5": "f5c52ca25f04821fd25a205fa870e1bf"
+          }
+        },
+        {
+          "id": "com.terraformersmc:modmenu:13.0.4@jar",
+          "name": "Mod Menu",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1050885,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/fabricmods/required/modmenu-13.0.4.jar",
+            "MD5": "79856b4ad839616c9b4318952ba44fd1"
+          }
+        },
+        {
+          "id": "generated.fabricmod:placeholder-api:2.5.2+1.21.3@jar",
+          "name": "Placeholder API",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 237288,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/fabricmods/required/placeholder-api-2.5.2+1.21.3.jar",
+            "MD5": "80b2dea3d99621d2b76db30a0582665d"
+          }
+        },
+        {
+          "id": "su.plo.voice:plasmovoice:2.1.8@jar",
+          "name": "Plasmo Voice",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 12213283,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/fabricmods/required/plasmovoice-fabric-1.21.4-2.1.8.jar",
+            "MD5": "2bdd1e46a3024b572da60345a7998bac"
+          }
+        },
+        {
+          "id": "net.caffeinemc.mods:sodium:0.6.13+mc1.21.4@jar",
+          "name": "Sodium",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1306799,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/fabricmods/required/sodium-fabric-0.6.13+mc1.21.4.jar",
+            "MD5": "28922a78d1876ee062e3265f10abcc46"
+          }
+        },
+        {
+          "id": "dev.isxander.yacl3.platform:yet_another_config_lib_v3:3.8.2+1.21.4-fabric@jar",
+          "name": "YetAnotherConfigLib",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1130824,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/fabricmods/required/yet_another_config_lib_v3-3.8.2+1.21.4-fabric.jar",
+            "MD5": "892f173cfd0619203438efcc9dcf0014"
+          }
+        },
+        {
+          "id": "dev.isxander:zoomify:2.15.2+1.21.5@jar",
+          "name": "Zoomify",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 872894,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/fabricmods/required/zoomify-2.15.2+1.21.5.jar",
+            "MD5": "2094cdfca3b0f225bd94710eb1a4e593"
+          }
+        },
+        {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 4177,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/files/options.txt",
+            "path": "options.txt"
+          }
+        },
+        {
+          "id": "ComplementaryReimagined_r5.7.1.zip",
+          "name": "ComplementaryReimagined_r5.7.1.zip",
+          "type": "File",
+          "artifact": {
+            "size": 522970,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/files/shaderpacks/ComplementaryReimagined_r5.7.1.zip",
+            "MD5": "bc5f557bb6844d27e7b7891170544ea9",
+            "path": "shaderpacks/ComplementaryReimagined_r5.7.1.zip"
+          }
+        }
+      ]
+    }
+  ]
+}
