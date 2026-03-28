@@ -296,6 +296,28 @@
           }
         },
         {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 9653,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/files/servers.dat",
+            "MD5": "23a4b75f2d275294158f20925aae4251",
+            "path": "servers.dat"
+          }
+        },
+        {
+          "id": "servers.dat_old",
+          "name": "servers.dat_old",
+          "type": "File",
+          "artifact": {
+            "size": 9653,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/files/servers.dat_old",
+            "MD5": "23a4b75f2d275294158f20925aae4251",
+            "path": "servers.dat_old"
+          }
+        },
+        {
           "id": "ComplementaryReimagined_r5.7.1.zip",
           "name": "ComplementaryReimagined_r5.7.1.zip",
           "type": "File",
