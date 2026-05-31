@@ -126,6 +126,16 @@
           }
         },
         {
+          "id": "main.cinematic:cinematic:1.0.0@jar",
+          "name": "Cinematic",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 20870,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/fabricmods/required/cinematic-1.0.0.jar",
+            "MD5": "958c8d4f1245ef485b43bde50dacc8fd"
+          }
+        },
+        {
           "id": "me.pepperbell:continuity:3.0.0+1.21.4@jar",
           "name": "Continuity",
           "type": "FabricMod",
@@ -133,6 +143,16 @@
             "size": 1001061,
             "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/fabricmods/required/continuity-3.0.0+1.21.4.jar",
             "MD5": "cb5480ac95db653d5376ec1b41797b56"
+          }
+        },
+        {
+          "id": "io.github.kosmx.emotes:emotecraft:2.5.8@jar",
+          "name": "Emotecraft",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1259819,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/fabricmods/required/emotecraft-fabric-for-MC1.21.4-2.5.8.jar",
+            "MD5": "ecbcffd1aa9d83847e00da62fc45d9b3"
           }
         },
         {
@@ -146,13 +166,13 @@
           }
         },
         {
-          "id": "generated.fabricmod:fabric-language-kotlin:1.13.10+kotlin.2.3.20@jar",
+          "id": "generated.fabricmod:fabric-language-kotlin:1.13.11+kotlin.2.3.21@jar",
           "name": "Fabric Language Kotlin",
           "type": "FabricMod",
           "artifact": {
-            "size": 7796348,
-            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/fabricmods/required/fabric-language-kotlin-1.13.10+kotlin.2.3.20.jar",
-            "MD5": "ab31a7c6fdfeb7f5dca011dcfa88ff08"
+            "size": 7813444,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/fabricmods/required/fabric-language-kotlin-1.13.11+kotlin.2.3.21.jar",
+            "MD5": "06f4497b65f800a0b110025d8e9a4005"
           }
         },
         {
@@ -166,13 +186,33 @@
           }
         },
         {
+          "id": "com.gitter:gtdialogues:1.0.0@jar",
+          "name": "GTDialogues",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1046911,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/fabricmods/required/gtdialogues-fabric-1.21.4-1.0.0.jar",
+            "MD5": "9304aa1f24f18084056deceafc625efd"
+          }
+        },
+        {
           "id": "com.gitter:gthud:1.0-SNAPSHOT@jar",
           "name": "GTHud",
           "type": "FabricMod",
           "artifact": {
-            "size": 9356386,
+            "size": 9357044,
             "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/fabricmods/required/gthud-fabric-1.21.4-1.0-SNAPSHOT.jar",
-            "MD5": "518f9b044fbe64078a5a1658e08b464a"
+            "MD5": "582e13ddfdb355972aaefcb209fced0c"
+          }
+        },
+        {
+          "id": "com.gitter.minigames:gtminigames:0.1.0@jar",
+          "name": "GTMiniGames",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 38600,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/fabricmods/required/GTMiniGames-fabric-0.1.0.jar",
+            "MD5": "67b9b7b15908b157aa0a6d792dff9aae"
           }
         },
         {
@@ -190,9 +230,29 @@
           "name": "GTPhone",
           "type": "FabricMod",
           "artifact": {
-            "size": 4586752,
+            "size": 5486536,
             "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/fabricmods/required/GTPhone-Fabric-1.0.0.jar",
-            "MD5": "505531b248fd94f9a4bf11920e02695e"
+            "MD5": "7baf28bb4ffe026f4c36cec86cf5185d"
+          }
+        },
+        {
+          "id": "com.gitter:gtshop:1.0.1@jar",
+          "name": "GTShop",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 4135380,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/fabricmods/required/gtshop-fabric-1.21.4-1.0.1.jar",
+            "MD5": "952e70033815c5bdff1c82dd06f901e7"
+          }
+        },
+        {
+          "id": "com.gtview:gtview:.0.0@jar",
+          "name": "GTView",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 66737,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/fabricmods/required/gtview-fabric-.0.0.jar",
+            "MD5": "5207fe1ec3897afc48de899ec6f64a0e"
           }
         },
         {
@@ -236,6 +296,26 @@
           }
         },
         {
+          "id": "dev.dediamondpro:resourcify:1.8.1@jar",
+          "name": "Resourcify",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2582446,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/fabricmods/required/Resourcify%20(1.21.4-fabric)-1.8.1.jar",
+            "MD5": "27ec2629132edd8e4afd781761fe479e"
+          }
+        },
+        {
+          "id": "com.nettakrim:signed_paintings:1.2.0-mc1.21.4@jar",
+          "name": "Signed Paintings",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 126833,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/fabricmods/required/signed_paintings-1.2.0-mc1.21.4.jar",
+            "MD5": "febaf7637685172f02b4299f594b4242"
+          }
+        },
+        {
           "id": "net.caffeinemc.mods:sodium:0.6.13+mc1.21.4@jar",
           "name": "Sodium",
           "type": "FabricMod",
@@ -243,6 +323,16 @@
             "size": 1306799,
             "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/fabricmods/required/sodium-fabric-0.6.13+mc1.21.4.jar",
             "MD5": "28922a78d1876ee062e3265f10abcc46"
+          }
+        },
+        {
+          "id": "org.watermedia.loaders:watermedia:2.1.23@jar",
+          "name": "WaterMedia",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 37851021,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/fabricmods/required/watermedia-2.1.23.jar",
+            "MD5": "e9ca967ff77bf883202e0b44b8d79fa3"
           }
         },
         {
@@ -266,46 +356,1013 @@
           }
         },
         {
+          "id": "emotecraft.json",
+          "name": "emotecraft.json",
+          "type": "File",
+          "artifact": {
+            "size": 689,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/files/config/emotecraft.json",
+            "path": "config/emotecraft.json"
+          }
+        },
+        {
+          "id": "bend_sit.json",
+          "name": "bend_sit.json",
+          "type": "File",
+          "artifact": {
+            "size": 1037,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/files/emotes/bend_sit.json",
+            "MD5": "e673b01c7ac9be7392ddcc5405165cab",
+            "path": "emotes/bend_sit.json"
+          }
+        },
+        {
+          "id": "Bhop.emotecraft",
+          "name": "Bhop.emotecraft",
+          "type": "File",
+          "artifact": {
+            "size": 52230,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/files/emotes/Bhop.emotecraft",
+            "MD5": "203dad7d835817ef3213d4cb2a4b52f5",
+            "path": "emotes/Bhop.emotecraft"
+          }
+        },
+        {
+          "id": "bow1.json",
+          "name": "bow1.json",
+          "type": "File",
+          "artifact": {
+            "size": 12946,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/files/emotes/bow1.json",
+            "MD5": "a40f455af2ac8ca8c2fd39f770b1006b",
+            "path": "emotes/bow1.json"
+          }
+        },
+        {
+          "id": "bow2.json",
+          "name": "bow2.json",
+          "type": "File",
+          "artifact": {
+            "size": 12957,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/files/emotes/bow2.json",
+            "MD5": "0d059cda2c5feb4cc306600a336cdd9d",
+            "path": "emotes/bow2.json"
+          }
+        },
+        {
+          "id": "BPS_bloop.json",
+          "name": "BPS_bloop.json",
+          "type": "File",
+          "artifact": {
+            "size": 31353,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/files/emotes/BPS_bloop.json",
+            "MD5": "c2b57fea1369ed332691380cd6e13f1f",
+            "path": "emotes/BPS_bloop.json"
+          }
+        },
+        {
+          "id": "campfire_sit1.json",
+          "name": "campfire_sit1.json",
+          "type": "File",
+          "artifact": {
+            "size": 57579,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/files/emotes/campfire_sit1.json",
+            "MD5": "fe42e7879068bd3223affe76a1010201",
+            "path": "emotes/campfire_sit1.json"
+          }
+        },
+        {
+          "id": "club_penguin_dance.json",
+          "name": "club_penguin_dance.json",
+          "type": "File",
+          "artifact": {
+            "size": 186343,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/files/emotes/club_penguin_dance.json",
+            "MD5": "24755eaab4a199b528ea667327994887",
+            "path": "emotes/club_penguin_dance.json"
+          }
+        },
+        {
+          "id": "cool_sit.json",
+          "name": "cool_sit.json",
+          "type": "File",
+          "artifact": {
+            "size": 15927,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/files/emotes/cool_sit.json",
+            "MD5": "d1edef4cfbc39e89d915d9bf879fec8a",
+            "path": "emotes/cool_sit.json"
+          }
+        },
+        {
+          "id": "cross.json",
+          "name": "cross.json",
+          "type": "File",
+          "artifact": {
+            "size": 13606,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/files/emotes/cross.json",
+            "MD5": "43aed723089a93dd434e736880b4b60f",
+            "path": "emotes/cross.json"
+          }
+        },
+        {
+          "id": "dab.json",
+          "name": "dab.json",
+          "type": "File",
+          "artifact": {
+            "size": 22531,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/files/emotes/dab.json",
+            "MD5": "e397d276d5ccbaea223abc5aa4e42e35",
+            "path": "emotes/dab.json"
+          }
+        },
+        {
+          "id": "Depression.emotecraft",
+          "name": "Depression.emotecraft",
+          "type": "File",
+          "artifact": {
+            "size": 52674,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/files/emotes/Depression.emotecraft",
+            "MD5": "ee46573c3d6ef424cd76c8848e35739b",
+            "path": "emotes/Depression.emotecraft"
+          }
+        },
+        {
+          "id": "Despair.emotecraft",
+          "name": "Despair.emotecraft",
+          "type": "File",
+          "artifact": {
+            "size": 54252,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/files/emotes/Despair.emotecraft",
+            "MD5": "16ddba07037360568a6355bea40a370e",
+            "path": "emotes/Despair.emotecraft"
+          }
+        },
+        {
+          "id": "Double Cross Dab.emotecraft",
+          "name": "Double Cross Dab.emotecraft",
+          "type": "File",
+          "artifact": {
+            "size": 18128,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/files/emotes/Double%20Cross%20Dab.emotecraft",
+            "MD5": "857a017d5c07a09f73e6e12d5c7ced6e",
+            "path": "emotes/Double Cross Dab.emotecraft"
+          }
+        },
+        {
+          "id": "do_eternal_rest_and_respawn.json",
+          "name": "do_eternal_rest_and_respawn.json",
+          "type": "File",
+          "artifact": {
+            "size": 93325,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/files/emotes/do_eternal_rest_and_respawn.json",
+            "MD5": "0fee6c1e905219fa0ea51fc83e575592",
+            "path": "emotes/do_eternal_rest_and_respawn.json"
+          }
+        },
+        {
+          "id": "F.json",
+          "name": "F.json",
+          "type": "File",
+          "artifact": {
+            "size": 32085,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/files/emotes/F.json",
+            "MD5": "979f49ffe0e01cfcc1222ed7b72732e5",
+            "path": "emotes/F.json"
+          }
+        },
+        {
+          "id": "Fast Salute.emotecraft",
+          "name": "Fast Salute.emotecraft",
+          "type": "File",
+          "artifact": {
+            "size": 15682,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/files/emotes/Fast%20Salute.emotecraft",
+            "MD5": "c46160c8c264454b8cf480a91c2a5521",
+            "path": "emotes/Fast Salute.emotecraft"
+          }
+        },
+        {
+          "id": "floss.json",
+          "name": "floss.json",
+          "type": "File",
+          "artifact": {
+            "size": 244604,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/files/emotes/floss.json",
+            "MD5": "789ba1f0ba99533577ed466c11f2be91",
+            "path": "emotes/floss.json"
+          }
+        },
+        {
+          "id": "floss_dance3.json",
+          "name": "floss_dance3.json",
+          "type": "File",
+          "artifact": {
+            "size": 78577,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/files/emotes/floss_dance3.json",
+            "MD5": "62231fa9fdbc8d77d8dc56aec66e4f41",
+            "path": "emotes/floss_dance3.json"
+          }
+        },
+        {
+          "id": "Get Griddy.emotecraft",
+          "name": "Get Griddy.emotecraft",
+          "type": "File",
+          "artifact": {
+            "size": 66925,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/files/emotes/Get%20Griddy.emotecraft",
+            "MD5": "e3e06696361662f71f37e9db102d38c7",
+            "path": "emotes/Get Griddy.emotecraft"
+          }
+        },
+        {
+          "id": "grace.json",
+          "name": "grace.json",
+          "type": "File",
+          "artifact": {
+            "size": 15930,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/files/emotes/grace.json",
+            "MD5": "16bd7c4d932cc4849698801ab8543fb9",
+            "path": "emotes/grace.json"
+          }
+        },
+        {
+          "id": "Hands up.emotecraft",
+          "name": "Hands up.emotecraft",
+          "type": "File",
+          "artifact": {
+            "size": 77713,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/files/emotes/Hands%20up.emotecraft",
+            "MD5": "a4e58eb4d3641cb7bc0453c74fd69e7f",
+            "path": "emotes/Hands up.emotecraft"
+          }
+        },
+        {
+          "id": "headball.json",
+          "name": "headball.json",
+          "type": "File",
+          "artifact": {
+            "size": 47431,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/files/emotes/headball.json",
+            "MD5": "bf172b52e816a2d5eb96d8feb0a91f1a",
+            "path": "emotes/headball.json"
+          }
+        },
+        {
+          "id": "headspin.json",
+          "name": "headspin.json",
+          "type": "File",
+          "artifact": {
+            "size": 615,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/files/emotes/headspin.json",
+            "MD5": "5f782b9cf3ae059cccd8ddd10a1c896d",
+            "path": "emotes/headspin.json"
+          }
+        },
+        {
+          "id": "headyeet.json",
+          "name": "headyeet.json",
+          "type": "File",
+          "artifact": {
+            "size": 12768,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/files/emotes/headyeet.json",
+            "MD5": "8bdf89d711a0912d6ca8c58e49478c0b",
+            "path": "emotes/headyeet.json"
+          }
+        },
+        {
+          "id": "heart.json",
+          "name": "heart.json",
+          "type": "File",
+          "artifact": {
+            "size": 40642,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/files/emotes/heart.json",
+            "MD5": "d6c1e6d910448eef6fe7f66798a3f0f2",
+            "path": "emotes/heart.json"
+          }
+        },
+        {
+          "id": "hearthands.json",
+          "name": "hearthands.json",
+          "type": "File",
+          "artifact": {
+            "size": 29148,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/files/emotes/hearthands.json",
+            "MD5": "9abc3096c5cb1c194de9dc2db9451f8a",
+            "path": "emotes/hearthands.json"
+          }
+        },
+        {
+          "id": "hug.json",
+          "name": "hug.json",
+          "type": "File",
+          "artifact": {
+            "size": 5454,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/files/emotes/hug.json",
+            "MD5": "f4703a139fce7011107235d1d0bc7049",
+            "path": "emotes/hug.json"
+          }
+        },
+        {
+          "id": "hunchback.json",
+          "name": "hunchback.json",
+          "type": "File",
+          "artifact": {
+            "size": 19881,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/files/emotes/hunchback.json",
+            "MD5": "2e0c68d333d33fc1d807a2c38b459203",
+            "path": "emotes/hunchback.json"
+          }
+        },
+        {
+          "id": "Inspect.json",
+          "name": "Inspect.json",
+          "type": "File",
+          "artifact": {
+            "size": 27509,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/files/emotes/Inspect.json",
+            "MD5": "34baf04fa2fc6f2ce0ba365ea887d6e8",
+            "path": "emotes/Inspect.json"
+          }
+        },
+        {
+          "id": "into_pieces.json",
+          "name": "into_pieces.json",
+          "type": "File",
+          "artifact": {
+            "size": 93290,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/files/emotes/into_pieces.json",
+            "MD5": "b53a4435274eb55aed62228c36ef239d",
+            "path": "emotes/into_pieces.json"
+          }
+        },
+        {
+          "id": "item.json",
+          "name": "item.json",
+          "type": "File",
+          "artifact": {
+            "size": 19247,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/files/emotes/item.json",
+            "MD5": "b6def110387ad87d9b28172edd1d0f47",
+            "path": "emotes/item.json"
+          }
+        },
+        {
+          "id": "JotaroPose.emotecraft",
+          "name": "JotaroPose.emotecraft",
+          "type": "File",
+          "artifact": {
+            "size": 10825,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/files/emotes/JotaroPose.emotecraft",
+            "MD5": "8bace0fe46dd76f487dcf51027fb9e16",
+            "path": "emotes/JotaroPose.emotecraft"
+          }
+        },
+        {
+          "id": "jump.json",
+          "name": "jump.json",
+          "type": "File",
+          "artifact": {
+            "size": 18703,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/files/emotes/jump.json",
+            "MD5": "c0ca4bc22981010423065dcb0cc2e2e5",
+            "path": "emotes/jump.json"
+          }
+        },
+        {
+          "id": "jumping jacks.json",
+          "name": "jumping jacks.json",
+          "type": "File",
+          "artifact": {
+            "size": 69969,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/files/emotes/jumping%20jacks.json",
+            "MD5": "858e43c368aa32faddd484ecbb6aeaef",
+            "path": "emotes/jumping jacks.json"
+          }
+        },
+        {
+          "id": "kingkong_clap.json",
+          "name": "kingkong_clap.json",
+          "type": "File",
+          "artifact": {
+            "size": 2909,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/files/emotes/kingkong_clap.json",
+            "MD5": "da69562301d48529a0a77597dd8c0d31",
+            "path": "emotes/kingkong_clap.json"
+          }
+        },
+        {
+          "id": "kingkong_clap.png",
+          "name": "kingkong_clap.png",
+          "type": "File",
+          "artifact": {
+            "size": 26181,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/files/emotes/kingkong_clap.png",
+            "MD5": "c74346dfc7eef860451e94630674e4e4",
+            "path": "emotes/kingkong_clap.png"
+          }
+        },
+        {
+          "id": "kingkong_hands up.json",
+          "name": "kingkong_hands up.json",
+          "type": "File",
+          "artifact": {
+            "size": 2019,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/files/emotes/kingkong_hands%20up.json",
+            "MD5": "322354b64f1da02b81779c65938d781a",
+            "path": "emotes/kingkong_hands up.json"
+          }
+        },
+        {
+          "id": "kingkong_hands up.png",
+          "name": "kingkong_hands up.png",
+          "type": "File",
+          "artifact": {
+            "size": 28019,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/files/emotes/kingkong_hands%20up.png",
+            "MD5": "6030277baa7ba20e59e65c352d268db4",
+            "path": "emotes/kingkong_hands up.png"
+          }
+        },
+        {
+          "id": "kingkong_Hi.json",
+          "name": "kingkong_Hi.json",
+          "type": "File",
+          "artifact": {
+            "size": 47837,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/files/emotes/kingkong_Hi.json",
+            "MD5": "c91cd62312aca0611d0e1a4c36137c67",
+            "path": "emotes/kingkong_Hi.json"
+          }
+        },
+        {
+          "id": "kingkong_Hi.png",
+          "name": "kingkong_Hi.png",
+          "type": "File",
+          "artifact": {
+            "size": 34914,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/files/emotes/kingkong_Hi.png",
+            "MD5": "af6e33ef864a09785e9af72e42d608a0",
+            "path": "emotes/kingkong_Hi.png"
+          }
+        },
+        {
+          "id": "kingkong_jump.json",
+          "name": "kingkong_jump.json",
+          "type": "File",
+          "artifact": {
+            "size": 5330,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/files/emotes/kingkong_jump.json",
+            "MD5": "a66a95772d04f91a9b177266e7ff2839",
+            "path": "emotes/kingkong_jump.json"
+          }
+        },
+        {
+          "id": "kingkong_jump.png",
+          "name": "kingkong_jump.png",
+          "type": "File",
+          "artifact": {
+            "size": 32119,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/files/emotes/kingkong_jump.png",
+            "MD5": "f8a4dc45280e5f98f633a6ff2d98ab06",
+            "path": "emotes/kingkong_jump.png"
+          }
+        },
+        {
+          "id": "kingkong_love.json",
+          "name": "kingkong_love.json",
+          "type": "File",
+          "artifact": {
+            "size": 28078,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/files/emotes/kingkong_love.json",
+            "MD5": "fc333db82b2d847b2db8f0debd9b0bbd",
+            "path": "emotes/kingkong_love.json"
+          }
+        },
+        {
+          "id": "kingkong_love.png",
+          "name": "kingkong_love.png",
+          "type": "File",
+          "artifact": {
+            "size": 26747,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/files/emotes/kingkong_love.png",
+            "MD5": "904f0e44d7b02505681241f6433f0533",
+            "path": "emotes/kingkong_love.png"
+          }
+        },
+        {
+          "id": "kingkong_one hands.json",
+          "name": "kingkong_one hands.json",
+          "type": "File",
+          "artifact": {
+            "size": 751,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/files/emotes/kingkong_one%20hands.json",
+            "MD5": "b863772bd83d58101452c205c1a528a2",
+            "path": "emotes/kingkong_one hands.json"
+          }
+        },
+        {
+          "id": "kingkong_one hands.png",
+          "name": "kingkong_one hands.png",
+          "type": "File",
+          "artifact": {
+            "size": 26484,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/files/emotes/kingkong_one%20hands.png",
+            "MD5": "f0f8084593fe7843f9aae2bd0e0d580d",
+            "path": "emotes/kingkong_one hands.png"
+          }
+        },
+        {
+          "id": "kingkong_pushup.json",
+          "name": "kingkong_pushup.json",
+          "type": "File",
+          "artifact": {
+            "size": 3750,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/files/emotes/kingkong_pushup.json",
+            "MD5": "b70d1b772fd5787ab89b86bd1a38d185",
+            "path": "emotes/kingkong_pushup.json"
+          }
+        },
+        {
+          "id": "kingkong_pushup.png",
+          "name": "kingkong_pushup.png",
+          "type": "File",
+          "artifact": {
+            "size": 7007,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/files/emotes/kingkong_pushup.png",
+            "MD5": "0b1cfbc1b8bc9a5feb3224b59c6f4c83",
+            "path": "emotes/kingkong_pushup.png"
+          }
+        },
+        {
+          "id": "kingkong_salute.json",
+          "name": "kingkong_salute.json",
+          "type": "File",
+          "artifact": {
+            "size": 1652,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/files/emotes/kingkong_salute.json",
+            "MD5": "ce2082d78a0868bea4e230cbf2fb5f9e",
+            "path": "emotes/kingkong_salute.json"
+          }
+        },
+        {
+          "id": "kingkong_salute.png",
+          "name": "kingkong_salute.png",
+          "type": "File",
+          "artifact": {
+            "size": 24917,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/files/emotes/kingkong_salute.png",
+            "MD5": "1a76aa9a7f9ef01d2a18a742d699dbdd",
+            "path": "emotes/kingkong_salute.png"
+          }
+        },
+        {
+          "id": "kingkong_sit.json",
+          "name": "kingkong_sit.json",
+          "type": "File",
+          "artifact": {
+            "size": 2650,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/files/emotes/kingkong_sit.json",
+            "MD5": "42589e23fb3dc01c97e609320071a0af",
+            "path": "emotes/kingkong_sit.json"
+          }
+        },
+        {
+          "id": "kingkong_sit.png",
+          "name": "kingkong_sit.png",
+          "type": "File",
+          "artifact": {
+            "size": 35141,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/files/emotes/kingkong_sit.png",
+            "MD5": "53d1e6d15ce67d5b2279291c43315379",
+            "path": "emotes/kingkong_sit.png"
+          }
+        },
+        {
+          "id": "Lay on back.emotecraft",
+          "name": "Lay on back.emotecraft",
+          "type": "File",
+          "artifact": {
+            "size": 13910,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/files/emotes/Lay%20on%20back.emotecraft",
+            "MD5": "2fab19ffa1ce0be048433ab881650d63",
+            "path": "emotes/Lay on back.emotecraft"
+          }
+        },
+        {
+          "id": "lay_down5.json",
+          "name": "lay_down5.json",
+          "type": "File",
+          "artifact": {
+            "size": 73953,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/files/emotes/lay_down5.json",
+            "MD5": "b8971579d9ce4e4d6a6411b1d4d5b1b1",
+            "path": "emotes/lay_down5.json"
+          }
+        },
+        {
+          "id": "lean.json",
+          "name": "lean.json",
+          "type": "File",
+          "artifact": {
+            "size": 14477,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/files/emotes/lean.json",
+            "MD5": "a9bd9dc175588b72d971e92204d63548",
+            "path": "emotes/lean.json"
+          }
+        },
+        {
+          "id": "lejat.json",
+          "name": "lejat.json",
+          "type": "File",
+          "artifact": {
+            "size": 8102,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/files/emotes/lejat.json",
+            "MD5": "0664a96632caa5224cb2f6193da4c9c8",
+            "path": "emotes/lejat.json"
+          }
+        },
+        {
+          "id": "lookaround.json",
+          "name": "lookaround.json",
+          "type": "File",
+          "artifact": {
+            "size": 14998,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/files/emotes/lookaround.json",
+            "MD5": "21a344aec52e2ef65e88dc7e3177a61f",
+            "path": "emotes/lookaround.json"
+          }
+        },
+        {
+          "id": "make_gestures.json",
+          "name": "make_gestures.json",
+          "type": "File",
+          "artifact": {
+            "size": 47649,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/files/emotes/make_gestures.json",
+            "MD5": "a5e4d27544bb9a33ff1797847bed1197",
+            "path": "emotes/make_gestures.json"
+          }
+        },
+        {
+          "id": "meditation_fly.json",
+          "name": "meditation_fly.json",
+          "type": "File",
+          "artifact": {
+            "size": 39945,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/files/emotes/meditation_fly.json",
+            "MD5": "be846958a3a1f2cfaf2cbe758b0a2ef6",
+            "path": "emotes/meditation_fly.json"
+          }
+        },
+        {
+          "id": "Naruto.emotecraft",
+          "name": "Naruto.emotecraft",
+          "type": "File",
+          "artifact": {
+            "size": 60501,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/files/emotes/Naruto.emotecraft",
+            "MD5": "f81f46c450ed241f607279dfe5739024",
+            "path": "emotes/Naruto.emotecraft"
+          }
+        },
+        {
+          "id": "narutonew.json",
+          "name": "narutonew.json",
+          "type": "File",
+          "artifact": {
+            "size": 81478,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/files/emotes/narutonew.json",
+            "MD5": "43a8f02999e05fe775e2aee3c7ee32b3",
+            "path": "emotes/narutonew.json"
+          }
+        },
+        {
+          "id": "nervous.json",
+          "name": "nervous.json",
+          "type": "File",
+          "artifact": {
+            "size": 2817,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/files/emotes/nervous.json",
+            "MD5": "0677558fccd3f31e28e2879f61987e7c",
+            "path": "emotes/nervous.json"
+          }
+        },
+        {
+          "id": "orange justice.json",
+          "name": "orange justice.json",
+          "type": "File",
+          "artifact": {
+            "size": 165358,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/files/emotes/orange%20justice.json",
+            "MD5": "1500c67434dd3913bd4be2043b76393b",
+            "path": "emotes/orange justice.json"
+          }
+        },
+        {
+          "id": "penguin.json",
+          "name": "penguin.json",
+          "type": "File",
+          "artifact": {
+            "size": 26992,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/files/emotes/penguin.json",
+            "MD5": "74501c40612c035739764af2520e0405",
+            "path": "emotes/penguin.json"
+          }
+        },
+        {
+          "id": "Peppino Sound Test Dance.emotecraft",
+          "name": "Peppino Sound Test Dance.emotecraft",
+          "type": "File",
+          "artifact": {
+            "size": 13531,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/files/emotes/Peppino%20Sound%20Test%20Dance.emotecraft",
+            "MD5": "e0900a869da8a0df5038a351aa64c8e5",
+            "path": "emotes/Peppino Sound Test Dance.emotecraft"
+          }
+        },
+        {
+          "id": "Po Pi Po.emotecraft",
+          "name": "Po Pi Po.emotecraft",
+          "type": "File",
+          "artifact": {
+            "size": 71246,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/files/emotes/Po%20Pi%20Po.emotecraft",
+            "MD5": "4820466fbf3a83c5221cbdd0d81e24ac",
+            "path": "emotes/Po Pi Po.emotecraft"
+          }
+        },
+        {
+          "id": "Pokedance.emotecraft",
+          "name": "Pokedance.emotecraft",
+          "type": "File",
+          "artifact": {
+            "size": 69178,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/files/emotes/Pokedance.emotecraft",
+            "MD5": "3d67e90c6180bd949183b96e84f60527",
+            "path": "emotes/Pokedance.emotecraft"
+          }
+        },
+        {
+          "id": "Pulo Do CR7.emotecraft",
+          "name": "Pulo Do CR7.emotecraft",
+          "type": "File",
+          "artifact": {
+            "size": 450092,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/files/emotes/Pulo%20Do%20CR7.emotecraft",
+            "MD5": "2d823e378250855ae88fb55faaf060b2",
+            "path": "emotes/Pulo Do CR7.emotecraft"
+          }
+        },
+        {
+          "id": "Rat Dance 1.2.emotecraft",
+          "name": "Rat Dance 1.2.emotecraft",
+          "type": "File",
+          "artifact": {
+            "size": 76127,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/files/emotes/Rat%20Dance%201.2.emotecraft",
+            "MD5": "1010b1795ff3c4ebdae4b7e87681a220",
+            "path": "emotes/Rat Dance 1.2.emotecraft"
+          }
+        },
+        {
+          "id": "Salute.emotecraft",
+          "name": "Salute.emotecraft",
+          "type": "File",
+          "artifact": {
+            "size": 58216,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/files/emotes/Salute.emotecraft",
+            "MD5": "c8f2336f2836a22ed4516e734f6a7797",
+            "path": "emotes/Salute.emotecraft"
+          }
+        },
+        {
+          "id": "selfie.json",
+          "name": "selfie.json",
+          "type": "File",
+          "artifact": {
+            "size": 7760,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/files/emotes/selfie.json",
+            "MD5": "60c84de1a4a26804aa422bb61e9b067f",
+            "path": "emotes/selfie.json"
+          }
+        },
+        {
+          "id": "shake.json",
+          "name": "shake.json",
+          "type": "File",
+          "artifact": {
+            "size": 14539,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/files/emotes/shake.json",
+            "MD5": "7be63a77516056d2187f2f510f88b232",
+            "path": "emotes/shake.json"
+          }
+        },
+        {
+          "id": "Shuffle.emotecraft",
+          "name": "Shuffle.emotecraft",
+          "type": "File",
+          "artifact": {
+            "size": 207082,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/files/emotes/Shuffle.emotecraft",
+            "MD5": "9d1da1bb24d1c1bd68b289e90a5304b4",
+            "path": "emotes/Shuffle.emotecraft"
+          }
+        },
+        {
+          "id": "sit.json",
+          "name": "sit.json",
+          "type": "File",
+          "artifact": {
+            "size": 4046,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/files/emotes/sit.json",
+            "MD5": "c2f7665f38396cf191628268d2140282",
+            "path": "emotes/sit.json"
+          }
+        },
+        {
+          "id": "sitting.json",
+          "name": "sitting.json",
+          "type": "File",
+          "artifact": {
+            "size": 3581,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/files/emotes/sitting.json",
+            "MD5": "cab2dca1b12ccd608878fbfd4fcadf9d",
+            "path": "emotes/sitting.json"
+          }
+        },
+        {
+          "id": "smoking loop.emotecraft",
+          "name": "smoking loop.emotecraft",
+          "type": "File",
+          "artifact": {
+            "size": 26478,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/files/emotes/smoking%20loop.emotecraft",
+            "MD5": "fe968567f73a7decba51bb0f7824fcb1",
+            "path": "emotes/smoking loop.emotecraft"
+          }
+        },
+        {
+          "id": "Smug dance.emotecraft",
+          "name": "Smug dance.emotecraft",
+          "type": "File",
+          "artifact": {
+            "size": 66988,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/files/emotes/Smug%20dance.emotecraft",
+            "MD5": "0afa08e6aa38b8c77685db84b8b5dc5b",
+            "path": "emotes/Smug dance.emotecraft"
+          }
+        },
+        {
+          "id": "Take The L.emotecraft",
+          "name": "Take The L.emotecraft",
+          "type": "File",
+          "artifact": {
+            "size": 8557,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/files/emotes/Take%20The%20L.emotecraft",
+            "MD5": "acb99c11f344de8854865211ccbca764",
+            "path": "emotes/Take The L.emotecraft"
+          }
+        },
+        {
+          "id": "take the l.json",
+          "name": "take the l.json",
+          "type": "File",
+          "artifact": {
+            "size": 86075,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/files/emotes/take%20the%20l.json",
+            "MD5": "e64c2df588849bf33c82e0abdb0f8e28",
+            "path": "emotes/take the l.json"
+          }
+        },
+        {
+          "id": "The Luddy.emotecraft",
+          "name": "The Luddy.emotecraft",
+          "type": "File",
+          "artifact": {
+            "size": 109502,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/files/emotes/The%20Luddy.emotecraft",
+            "MD5": "f96d8709d625c5bb2ee284c949d2ab7e",
+            "path": "emotes/The Luddy.emotecraft"
+          }
+        },
+        {
+          "id": "the_dab.json",
+          "name": "the_dab.json",
+          "type": "File",
+          "artifact": {
+            "size": 23732,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/files/emotes/the_dab.json",
+            "MD5": "6483190647136ed0430ee1b5da2ed31d",
+            "path": "emotes/the_dab.json"
+          }
+        },
+        {
+          "id": "tpose.json",
+          "name": "tpose.json",
+          "type": "File",
+          "artifact": {
+            "size": 2799,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/files/emotes/tpose.json",
+            "MD5": "63c1c3006a62418cc7cc10a1812bc58f",
+            "path": "emotes/tpose.json"
+          }
+        },
+        {
+          "id": "Twerk.json",
+          "name": "Twerk.json",
+          "type": "File",
+          "artifact": {
+            "size": 53912,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/files/emotes/Twerk.json",
+            "MD5": "bbc3354e01b2b61f7fe6b79c4554557a",
+            "path": "emotes/Twerk.json"
+          }
+        },
+        {
+          "id": "Zero Two Wiggle.emotecraft",
+          "name": "Zero Two Wiggle.emotecraft",
+          "type": "File",
+          "artifact": {
+            "size": 994295,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/files/emotes/Zero%20Two%20Wiggle.emotecraft",
+            "MD5": "03f2c7f020e096c25866e065291b5d9c",
+            "path": "emotes/Zero Two Wiggle.emotecraft"
+          }
+        },
+        {
+          "id": "Играть с самолётиком.emotecraft",
+          "name": "Играть с самолётиком.emotecraft",
+          "type": "File",
+          "artifact": {
+            "size": 117344,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/files/emotes/%D0%98%D0%B3%D1%80%D0%B0%D1%82%D1%8C%20%D1%81%20%D1%81%D0%B0%D0%BC%D0%BE%D0%BB%D1%91%D1%82%D0%B8%D0%BA%D0%BE%D0%BC.emotecraft",
+            "MD5": "891552c5096a1c281c3a4ba984d3593e",
+            "path": "emotes/Играть с самолётиком.emotecraft"
+          }
+        },
+        {
+          "id": "Отжимания в стойке на руках.emotecraft",
+          "name": "Отжимания в стойке на руках.emotecraft",
+          "type": "File",
+          "artifact": {
+            "size": 86702,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/files/emotes/%D0%9E%D1%82%D0%B6%D0%B8%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%B2%20%D1%81%D1%82%D0%BE%D0%B9%D0%BA%D0%B5%20%D0%BD%D0%B0%20%D1%80%D1%83%D0%BA%D0%B0%D1%85.emotecraft",
+            "MD5": "d6a2b411d34faef0d4857353d28df401",
+            "path": "emotes/Отжимания в стойке на руках.emotecraft"
+          }
+        },
+        {
+          "id": "Самолётик.emotecraft",
+          "name": "Самолётик.emotecraft",
+          "type": "File",
+          "artifact": {
+            "size": 93201,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/files/emotes/%D0%A1%D0%B0%D0%BC%D0%BE%D0%BB%D1%91%D1%82%D0%B8%D0%BA.emotecraft",
+            "MD5": "217fbf01d8f1f3adfd393659d28df388",
+            "path": "emotes/Самолётик.emotecraft"
+          }
+        },
+        {
+          "id": "Сидеть поджав колени к груди.emotecraft",
+          "name": "Сидеть поджав колени к груди.emotecraft",
+          "type": "File",
+          "artifact": {
+            "size": 109120,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/files/emotes/%D0%A1%D0%B8%D0%B4%D0%B5%D1%82%D1%8C%20%D0%BF%D0%BE%D0%B4%D0%B6%D0%B0%D0%B2%20%D0%BA%D0%BE%D0%BB%D0%B5%D0%BD%D0%B8%20%D0%BA%20%D0%B3%D1%80%D1%83%D0%B4%D0%B8.emotecraft",
+            "MD5": "183d14fa5b6dfd11bc91b7501a249f37",
+            "path": "emotes/Сидеть поджав колени к груди.emotecraft"
+          }
+        },
+        {
           "id": "options.txt",
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 4177,
+            "size": 4302,
             "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/files/options.txt",
             "path": "options.txt"
           }
         },
         {
-          "id": "servers.dat",
-          "name": "servers.dat",
+          "id": "Alliumv2.1.2.zip",
+          "name": "Alliumv2.1.2.zip",
           "type": "File",
           "artifact": {
-            "size": 9653,
-            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/files/servers.dat",
-            "MD5": "23a4b75f2d275294158f20925aae4251",
-            "path": "servers.dat"
+            "size": 14295826,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/files/shaderpacks/Alliumv2.1.2.zip",
+            "MD5": "ff9817bf13d2094bf26632f2a951ab80",
+            "path": "shaderpacks/Alliumv2.1.2.zip"
           }
         },
         {
-          "id": "servers.dat_old",
-          "name": "servers.dat_old",
+          "id": "Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip",
+          "name": "Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip",
           "type": "File",
           "artifact": {
-            "size": 9653,
-            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/files/servers.dat_old",
-            "MD5": "23a4b75f2d275294158f20925aae4251",
-            "path": "servers.dat_old"
-          }
-        },
-        {
-          "id": "ComplementaryReimagined_r5.7.1.zip",
-          "name": "ComplementaryReimagined_r5.7.1.zip",
-          "type": "File",
-          "artifact": {
-            "size": 522970,
-            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/files/shaderpacks/ComplementaryReimagined_r5.7.1.zip",
-            "MD5": "bc5f557bb6844d27e7b7891170544ea9",
-            "path": "shaderpacks/ComplementaryReimagined_r5.7.1.zip"
+            "size": 1791406,
+            "url": "https://github.com/suhotest/yeombyeong/raw/main/servers/%EC%97%BC%EB%B3%91%EC%84%9C%EB%B2%84-1.21.4/files/shaderpacks/Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip",
+            "MD5": "73eac5d017a268ea8175c2025c2863ad",
+            "path": "shaderpacks/Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip"
           }
         }
       ]

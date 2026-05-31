@@ -1,0 +1,32 @@
+{
+    "name": "한손들기(질문)",
+    "author": "킹콩서버",
+    "description": "한손들기(질문)",
+    "emote":{
+        "isLoop": "true",
+        "returnTick": 7,
+        "beginTick":0,
+        "endTick":7,
+        "stopTick":8,
+        "degrees":false,
+        "moves":[
+            
+            {
+                "tick":7,
+                "easing": "EASEINOUTQUAD",
+                "turn": 0,
+                "rightArm":{
+                    "roll":-0.12217304855585098
+                }
+            },
+            {
+                "tick":7,
+                "easing": "EASEINOUTQUAD",
+                "turn": 0,
+                "rightArm":{
+                    "pitch":-2.9845130443573
+                }
+            }
+        ]
+    }
+}
