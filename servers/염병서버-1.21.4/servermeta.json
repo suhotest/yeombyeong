@@ -3,7 +3,7 @@
   "meta": {
     "version": "1.0.0",
     "name": "염병서버 테스트 (Minecraft 1.21.4)",
-    "description": "염병서버 테스트 Running Minecraft 1.21.4 (Fabric v0.18.5)",
+    "description": "염병서버 테스트 Running Minecraft 1.21.4 (Fabric v0.19.2)",
     "icon": "How to set the server icon: https://github.com/dscalzi/Nebula#setting-the-server-icon",
     "address": "211.245.95.156",
     "discord": {
@@ -15,7 +15,7 @@
     "autoconnect": false
   },
   "fabric": {
-    "version": "0.18.5"
+    "version": "0.19.2"
   },
   "untrackedFiles": [
     {
